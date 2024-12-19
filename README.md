@@ -17,7 +17,7 @@ User-Friendly GUI:
 
   # How To Use
 
-  1. Clone the Repository: https://github.com/austinanthony18/Has_Password_Been_Leaked.git
+  1. Clone the Repository: https://github.com/cybersecure35/Has_Password_Been_Leaked.git
 
   2. Install Dependencies: pip install requests
 
