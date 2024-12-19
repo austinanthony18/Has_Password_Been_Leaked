@@ -15,3 +15,11 @@ Brute Force Time Estimation:
 User-Friendly GUI: 
   Provides an easy-to-use graphical interface for entering passwords and viewing results.
 
+  # How To Use
+
+  1. Clone the Repository: https://github.com/austinanthony18/Has_Password_Been_Leaked.git
+
+  2. Install Dependencies: pip install requests
+
+  3. Run: python hasPasswordBeenLeaked.py
+
